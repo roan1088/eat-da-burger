@@ -2,3 +2,50 @@ body {
     background: #ffca66;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.all-burgers-view {
+    overflow: auto;
+}
+
+.burger-view {
+    width: 50%;
+    float: left;
+}
+
+ul {
+    list-style: none;
+    padding-inline-start: 0px;
+    text-align: left;
+}
+
+li {
+    margin: 4px;
+    padding: 8px;
+    background: lemonchiffon;
+    overflow: auto;
+}
+
+button {
+    border-radius: 4px;
+    padding: 4px 8px;
+}
+
+.devour-burger {
+    float: right;
+}
+
+#burger-name {
+    padding: 10px;
+}
+
+.create-form button {
+    background: blue;
+    color: white;
+    margin-top: 4px;
+}
