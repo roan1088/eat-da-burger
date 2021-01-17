@@ -9,6 +9,8 @@ https://eat-da-burger-1088.herokuapp.com/
 ## Description
 An app that lets users input the names of burgers they'd like to devour. The name of the burgers are stored in a database along with whether its devoured or not.
 
+![Eat Da Burger](./images/eat-da-burger.png)
+
 ## Table of Contents
 - [Usage](#usage)
 - [License](#license)
